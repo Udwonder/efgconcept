@@ -106,9 +106,9 @@ export default function About() {
           <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
             {/* Team Member 1 */}
             <div className="bg-card border rounded-2xl overflow-hidden shadow-sm flex flex-col">
-              <img src="https://drive.google.com/thumbnail?id=1-8owGj04Z26HxEsvuNWkciL0YyAs0egY&sz=w1000" alt="Ani Eja" referrerPolicy="no-referrer" className="w-full h-72 object-cover object-top" />
+              <img src="https://drive.google.com/thumbnail?id=1-8owGj04Z26HxEsvuNWkciL0YyAs0egY&sz=w1000" alt="Barr. Mmornborn Eja Ani" referrerPolicy="no-referrer" className="w-full h-72 object-cover object-top" />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-foreground">Ani Eja</h3>
+                <h3 className="text-xl font-bold text-foreground">Barr. Mmornborn Eja Ani</h3>
                 <p className="text-[hsl(var(--primary))] font-medium">Director, Administration</p>
               </div>
             </div>
