@@ -8,7 +8,7 @@ export default function Home() {
       <section className="relative overflow-hidden bg-white pt-24 pb-32">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://drive.google.com/thumbnail?id=1GUUpS-41eIWLd0LXlG-4xxK28erZt_ki&sz=w1920"
+            src="https://drive.google.com/thumbnail?id=1qzpSUGeTDyMNxvtIMXNSVhMOechkunY_&sz=w1920"
             alt="Pipeline Construction"
             referrerPolicy="no-referrer"
             className="h-full w-full object-cover opacity-100"
